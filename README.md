@@ -1,5 +1,5 @@
 # 3D書式簡単制御君
-![image](https://github.com/yt0sh/vba/assets/71376979/5efcbc0d-59fb-47fb-983c-a3776c907b53)
+![3D書式簡単制御君 xlsm - Excel](https://github.com/yt0sh/vba-3dformat-control/assets/71376979/3d84b997-639c-4c63-90f6-dc1f7db3fc8d)
 
 - 各軸の回転/逆回転　微調整
 - 矢印の高さ・幅・奥行き増減
