@@ -123,7 +123,7 @@ Sub rotate_common(axis, minus As Integer, bitFlag As Integer)
        
     rotate_adjust_to_lock
     
-    ' すごさ説明用
+    ' 位置補正具合を見るにはここを有効に
     'ActiveSheet.Shapes.Range(Array("face1r", "face1l", "face1t", "face1b", "face2r", "face2l", "face2b", "face2t", "face3r", "face3l", "face3b", "face3t")).Select
     
     common_end
